@@ -1,0 +1,37 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+
+# VSCode settings (optional, if using VSCode)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files (secrets)
+.env
+*.env
+
+# Logs
+*.log
+
+# MyPy and coverage tools
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
+
+# Pydantic schema cache
+.pdm.toml
+.pdm.lock
