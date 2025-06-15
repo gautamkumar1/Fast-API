@@ -10,6 +10,11 @@ python -m venv <your virtual enviroment name>
 ```
 uvicorn <filename>:app --reload
 ```
+#### Visit:
+
+- http://localhost:8000 → See the message
+
+- http://localhost:8000/docs → See auto docs
 ### 🔹 What is FastAPI?
 - FastAPI is a Python framework to create APIs quickly and easily.
 
